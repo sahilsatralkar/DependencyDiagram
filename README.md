@@ -6,4 +6,4 @@
 4. Dashed line, filled head = "depends on" (weak dependency)
 
 
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/62758655/235626813-e10d7f89-e0e5-4a24-b6ca-bdab55ced91e.png)
+![Untitled Diagram drawio-2](https://user-images.githubusercontent.com/62758655/235627314-40da897a-8b71-4353-b509-de6f749e8d98.png)
