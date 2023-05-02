@@ -1,4 +1,4 @@
-# DependencyDiagram
+# Dependency diagram for Feed view controller
 
 1. Solid line, empty head = "inherits from" / "is a".
 2. Dashed line, empty head = "conforms to" or "implements"
